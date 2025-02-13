@@ -1,0 +1,23 @@
+{
+  "name": "skyvault-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miniluchi/SkyVault-gateway.git"
+  },
+  "author": "Nathan OGER",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miniluchi/SkyVault-gateway/issues"
+  },
+  "homepage": "https://github.com/Miniluchi/SkyVault-gateway#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
