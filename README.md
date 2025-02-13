@@ -1,1 +1,1 @@
-# SkyVault-s-gateway
+# SkyVault's gateway
